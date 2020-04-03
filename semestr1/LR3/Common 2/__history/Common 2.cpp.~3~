@@ -1,0 +1,24 @@
+#pragma hdrstop
+#pragma argsused
+
+#include <iostream>
+#include <tchar.h>
+#include <conio.h>
+#include <math.h>
+#include <stdio.h>
+using namespace std;
+
+int _tmain() {
+	float d;
+	int n;
+    cout << "Enter amount of raw members: ";
+	cin >> n;
+	do {
+		d = pow((1.0 / 2), n) + pow((1.0 / 3), n);
+		n++;
+	}
+	while (d > 0.001);
+	cout << "d = " << d;
+	getch();
+	return 0;
+}

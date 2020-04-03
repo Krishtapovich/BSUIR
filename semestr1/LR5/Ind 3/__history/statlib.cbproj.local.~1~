@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.872,E:\Embarcadero\File1.cpp=E:\Embarcadero\integral2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.381,=E:\Embarcadero\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.880,E:\Embarcadero\File1.cpp=E:\Embarcadero\integral1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.428,=E:\Embarcadero\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.384,=E:\Embarcadero\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,E:\Embarcadero\Project2.cbproj=E:\Embarcadero\statlib.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.251,E:\Embarcadero\File1.cpp=E:\Embarcadero\integral4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.814,=E:\Embarcadero\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.760,E:\Embarcadero\File1.cpp=E:\Embarcadero\integral 3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,E:\Embarcadero\integral4.cpp=E:\Embarcadero\Lab rab\LR №5\Ind 3\integral4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.672,E:\Embarcadero\File1.h=E:\Embarcadero\integrals.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.566,=E:\Embarcadero\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.468,E:\Embarcadero\integrals.h=E:\Embarcadero\Lab rab\LR №5\Ind 3\integrals.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.331,E:\Embarcadero\integral2.cpp=E:\Embarcadero\Lab rab\LR №5\Ind 3\integral2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.555,E:\Embarcadero\statlib.cbproj=E:\Embarcadero\Lab rab\LR №5\Ind 3\statlib.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.468,E:\Embarcadero\integral 3.cpp=E:\Embarcadero\integral3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.244,E:\Embarcadero\integral1.cpp=E:\Embarcadero\Lab rab\LR №5\Ind 3\integral1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.795,E:\Embarcadero\integral3.cpp=E:\Embarcadero\Lab rab\LR №5\Ind 3\integral3.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,51 @@
+#pragma hdrstop
+#pragma argsused
+
+#ifdef _WIN32
+#include <tchar.h>
+#else
+  typedef char _TCHAR;
+  #define _tmain main
+#endif
+
+#include <stdio.h>
+#include <iostream>
+#include <math.h>
+#include <conio.h>
+using namespace std;
+
+int checker(int *arr, int first, int last);
+
+int _tmain()
+{
+	int n;
+	cout << "Enter number of elements of the array: ";
+	cin >> n;
+	int* arr = new int[n];
+	for (int i = 0; i < n; i++)
+	{
+		cin >> arr[i];
+	}
+	cout << "number is: " << checker(arr, 0, n);
+	delete[] arr;
+	getch();
+	return 0;
+}
+
+int checker(int* arr, int first, int last)
+{
+	int tr = first + (last - first) / 3;
+	if (first == last)// || first == last - 1)
+	{
+		double x = arr[first];
+		if (cos(pow(x * M_PI / 180, 2)) > 0 && x < 0)
+		{
+			return 1;
+		}
+		else
+		{
+			return 0;
+		}
+	}
+	return checker(arr, first, tr) + checker(arr, tr + 1, last);
+}

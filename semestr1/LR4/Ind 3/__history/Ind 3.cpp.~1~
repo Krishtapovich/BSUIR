@@ -1,0 +1,11 @@
+#pragma hdrstop
+#pragma argsused
+
+
+
+#include <stdio.h>
+
+int _tmain()
+{
+	return 0;
+}

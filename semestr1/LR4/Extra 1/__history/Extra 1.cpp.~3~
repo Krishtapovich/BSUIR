@@ -1,0 +1,98 @@
+#pragma hdrstop
+#pragma argsused
+
+#ifdef _WIN32
+#include <tchar.h>
+#else
+typedef char _TCHAR;
+#define _tmain main
+#endif
+// ’арактеристикой столбца целочисленной матрицы назовем сумму модулей его отрицательных нечетных элементов.
+// ѕереставл€€ столбцы заданной матрицы, расположить их в соответствии с ростом характеристик.
+#include <iostream>
+#include <ctime>
+#include <conio.h>
+using namespace std;
+
+int main() {
+	srand(time(NULL));
+
+	int sum = 0, columns, rows, rotate = 0;
+	cout << "Enter number of rows of the array: ";
+	cin >> rows;
+	cout << "Enter number of columns of the array: ";
+	cin >> columns;
+
+	int* ch = new int[columns];
+	for (int i = 0; i < columns; i++) {
+		ch[i] = 0;
+	}
+
+	int** arr = new int* [rows + 1];
+	for (int i = 0; i < rows + 1; i++) {
+		arr[i] = new int[rows + 1];
+	}
+
+	for (int i = 0; i < rows + 1; i++)
+	{ // заполнение матрицы случайными числами от -5 до 5
+		for (int j = 0; j < columns; j++) {
+			if (i < rows) {
+				arr[i][j] = rand() % 10 - 5;
+				cout << arr[i][j] << '\t';
+			}
+		}
+		cout << endl << endl;
+	}
+
+	for (int i = 0; i < columns; i++) {
+		sum = 0; // вычисление суммы отрицательных нечетных чисел
+		for (int j = 0; j < rows; j++) {
+			if (arr[j][i] < 0 && arr[j][i] % 2 != 0) {
+				sum += abs(arr[j][i]);
+				ch[i] = sum;
+			}
+		}
+	}
+
+	for (int i = 0; i < columns; i++)
+	{ // заполнение последней строки характеристиками
+		arr[rows][i] = ch[i];
+	}
+
+	int temp, k;
+	bool exit = false;
+	while (!exit) {
+		exit = true;
+		for (int i = 0; i < rows + 1; i++) {
+			for (int j = 0; j < columns - 1 - i; j++)
+			{
+				if (arr[rows][j] > arr[rows][j + 1]) {
+					k = arr[rows][j];
+					arr[rows][j] = arr[rows][j + 1];                  //сортировка
+					arr[rows][j + 1] = k;
+					for (int z = 0; z < rows; z++) {
+						temp = arr[z][j];
+						arr[z][j] = arr[z][j + 1];
+						arr[z][j + 1] = temp;
+					}
+					exit = false;
+				}
+			}
+		}
+	}
+
+	cout << "Sorted array: " << endl;
+	for (int i = 0; i < rows; i++) { // вывод отсортированного массива
+		for (int j = 0; j < columns; j++) {
+			cout << arr[i][j] << '\t';
+		}
+		cout << endl << endl;
+	}
+
+	delete[]ch;
+	for (int i = 0; i < rows + 1; i++) {
+		delete[]arr[i];
+	}
+	getch();
+	return 0;
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019.10.26 09:37:03.077,=E:\Embarcadero\Project2PCH1.h</Transaction>
+    <Transaction>2019.10.26 09:37:03.524,=E:\Embarcadero\File1.cpp</Transaction>
+    <Transaction>2019.10.26 09:38:55.072,E:\Embarcadero\Lab rab\LR №5\Ind 2\Ind 2.cpp=E:\Embarcadero\File1.cpp</Transaction>
+    <Transaction>2019.10.26 09:38:58.861,E:\Embarcadero\Lab rab\LR №5\Ind 2\Ind 2.h=E:\Embarcadero\Project2PCH1.h</Transaction>
+    <Transaction>2019.10.26 09:39:02.877,E:\Embarcadero\Lab rab\LR №5\Ind 2\Ind 2.cbproj=E:\Embarcadero\Project2.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

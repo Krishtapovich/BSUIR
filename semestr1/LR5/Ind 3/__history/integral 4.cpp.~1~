@@ -1,0 +1,51 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+void integral4() {
+	int n;
+	float a = 0.4, b = 0.8, x, I = 0;
+	cout << "How many parts do you want to split the integration segment: ";
+	cin >> n;
+	cout << endl;
+	float h = (b - a) / n;
+	//метод левых прямоугольников
+	for (int i = 0; i <= n - 1; i++)
+	{
+		x = a + i * h;
+		I += tan(pow(x, 2) + 0.5) / (1 + 2 * pow(x, 2));
+	}
+	cout << "Integral 4 by method of left rectangles on the segment from 0.4 to 0.8: " << h * I << endl;
+	I = 0;
+
+	//метод правых прямоугольников
+	for (int i = 1; i <= n; i++)
+	{
+		x = a + i * h;
+		I += tan(pow(x, 2) + 0.5) / (1 + 2 * pow(x, 2));
+	}
+	cout << "Integral 4 by method of right rectangles on the segment from 0.4 to 0.8: " << h * I << endl;
+	I = 0;
+
+	//метод средних прямоугольников
+	for (int i = 0; i <= n - 1; i++)
+	{
+		x = a + i * h + h / 2;
+		I += tan(pow(x, 2) + 0.5) / (1 + 2 * pow(x, 2));
+	}
+	cout << "Integral 4 by method of center rectangles on the segment from 0.4 to 0.8: " << h * I << endl;
+	I = 0;
+
+	//метод трапеций
+	for (int i = 0; i <= n; i++)
+	{
+		x = a + i * h;
+		if (i == 0 || i == n) {
+			I += tan(pow(x, 2) + 0.5) / (1 + 2 * pow(x, 2)) / 2;
+		}
+		else {
+			I += tan(pow(x, 2) + 0.5) / (1 + 2 * pow(x, 2));
+		}
+	}
+	cout << "Integral 4 by method of trapezies on the segment from 0.4 to 0.8: " << h * I << endl;
+}

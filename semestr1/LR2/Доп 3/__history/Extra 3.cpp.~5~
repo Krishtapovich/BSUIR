@@ -1,0 +1,44 @@
+#pragma hdrstop
+#pragma argsused
+
+#include <tchar.h>
+#include <iostream>
+#include <conio.h>
+#include <stdio.h>
+#include <math.h>
+#include <windows.h>
+using namespace std;
+
+int _tmain() {
+	SetConsoleOutputCP(1251);
+	float x1, x2, y1, y2, r1, r2, a1, a2, L;
+	int n;
+	cout << " акой тип координат точек (1 - декартовы, 0 - пол€рные): ";
+	cin >> n;
+	switch (n) {
+		case 1:
+			cout << "¬ведите абсциссу первой точки (x1): ";
+			cin >> x1;
+			cout << "¬ведите ординату первой точки (y1): ";
+			cin >> y1;
+			cout << "¬ведите абсциссу второй точки (x2): ";
+			cin >> x2;
+			cout << "¬ведите ординату второй точки (y2): ";
+			cin >> y2;
+			L = sqrt((pow(x2, 2) - pow(x1, 2)) + (pow(y2, 2) - pow(y1, 2)));
+			cout << "–ассто€ние между двум€ точками равно: " << L;
+		break;
+		case 0:
+			cout << "¬ведите пол€рный радиус первой точки (r1): "; cin >> r1;
+			cout << "¬ведите пол€рный угол первой точки (a1): "; cin >> a1;
+			cout << "¬ведите пол€рный радиус второй точки (r2): "; cin >> r2;
+			cout << "¬ведите пол€рный угол второй точки (a2): "; cin >> a2;
+			x1 = r1 * cos(a1 * M_PI / 180); y1 = r1 * sin(a1 * M_PI / 180);
+			x2 = r2 * cos(a2 * M_PI / 180); y2 = r2 * sin(a2 * M_PI / 180);
+			L = sqrt((pow(x2, 2) - pow(x1, 2)) + (pow(y2, 2) - pow(y1, 2)));
+			cout << "–ассто€ние между двум€ точками равно: " << L;
+		break;
+	}
+	getch();
+	return 0;
+}

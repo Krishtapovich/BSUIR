@@ -1,0 +1,7 @@
+#ifndef integrals_H
+//#include integrals_H
+ void integral1();
+ void integral2();
+ void integral3();
+ void integral4();
+#endif

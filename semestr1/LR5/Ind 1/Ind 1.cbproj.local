@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.096,E:\Embarcadero\Lab rab\LR №5\Ind 1\Ind 1.h=E:\Embarcadero\Lab rab\LR №5\Ind 1\Dll Ind 1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.176,=E:\Embarcadero\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,E:\Embarcadero\Lab rab\LR №5\Ind 1\Ind 1.cbproj=E:\Embarcadero\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,=E:\Embarcadero\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.481,E:\Embarcadero\Lab rab\LR №5\Ind 1\Ind 1.h=E:\Embarcadero\Lab rab\LR №5\Ind 1\Dll Ind 1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.108,E:\Embarcadero\Lab rab\LR №5\Ind 1\Dll Ind 1.h=E:\Embarcadero\Lab rab\LR №5\Ind 1\Ind 1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.492,E:\Embarcadero\Lab rab\LR №5\Ind 1\Dll Ind 1.h=E:\Embarcadero\Lab rab\LR №5\Ind 1\Ind 1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.163,E:\Embarcadero\Lab rab\LR №5\Ind 1\Dll Ind 1.h=E:\Embarcadero\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.074,E:\Embarcadero\Lab rab\LR №5\Ind 1\Ind 1.cpp=E:\Embarcadero\File1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

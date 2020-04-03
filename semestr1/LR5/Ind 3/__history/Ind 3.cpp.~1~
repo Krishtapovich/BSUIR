@@ -1,0 +1,27 @@
+#pragma hdrstop
+#pragma argsused
+
+#ifdef _WIN32
+#include <tchar.h>
+#else
+  typedef char _TCHAR;
+  #define _tmain main
+#endif
+#include <conio.h>
+#include <stdio.h>
+#include <iostream>
+
+#include "statlib.h"
+using namespace std;
+
+int _tmain() {
+	int n;
+	float h, b = 2.4, a = 0.8;
+	cout << "How many parts do you want to split the integration segment: ";
+	cin >> n;
+	cout << endl;
+	integral(n, b, a);
+	getch();
+	return 0;
+}
+

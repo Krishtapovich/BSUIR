@@ -1,0 +1,20 @@
+#pragma hdrstop
+#pragma argsused
+
+#include <iostream>
+#include <tchar.h>
+#include <conio.h>
+#include <stdio.h>
+using namespace std;
+int _tmain()
+{
+	float a, b;
+	cout << "Enter a = ";
+	cin >> a;
+	cout << "Enter b = ";
+	cin >> b;
+	bool A = a > b;
+    A ? cout << "Max is " << a : cout << "Max is " << b;
+	getch();
+	return 0;
+}

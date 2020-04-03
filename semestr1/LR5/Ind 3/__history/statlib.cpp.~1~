@@ -1,0 +1,14 @@
+#include "statlib.h"
+#include <math.h>
+#include <iostream>
+using namespace std;
+void integral(int n, float b, float a) {
+	float h = (b - a) / n;
+	float x, I = 0;
+	for (int i = 1; i <= n; i++)
+	{
+		x = a + i * h;
+		I += sqrt(0.4 * pow(x, 2) + 1.5) / (2.5 + sqrt(2 * x + 0.8));
+	}
+	cout << "Integral on the segment from 0.8 to 2.4: " << h * I << endl;
+}

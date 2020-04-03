@@ -1,0 +1,29 @@
+#pragma hdrstop
+#pragma argsused
+
+#include <iostream>
+#include <conio.h>
+#include <stdio.h>
+using namespace std;
+
+int _tmain()
+
+{
+	int arr[7];
+	cout << "Enter the values of the array's elements: ";
+	for (int i = 0; i < 7; i++) {
+		cin >> arr[i];
+	}
+	for (int i = 0; i < 7; i++) {
+		if (arr[i] == arr[6 - i]) {
+			cout << "The array is symmetrical";
+			break;
+		}
+		else {
+			cout << "The array isn't symmetrical";
+			break;
+		}
+	}
+	getch();
+	return 0;
+}
