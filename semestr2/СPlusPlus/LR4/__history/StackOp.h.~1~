@@ -1,0 +1,15 @@
+//---------------------------------------------------------------------------
+
+#ifndef StackOpH
+#define StackOpH
+class StackOp
+{
+public:
+	NodeOp *pNum, *pHead, *pTail;
+	int size;
+	StackOp();
+	void Add(char c);
+	char Delete();
+};
+//---------------------------------------------------------------------------
+#endif

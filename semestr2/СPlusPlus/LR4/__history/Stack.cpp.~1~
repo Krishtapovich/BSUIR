@@ -1,0 +1,17 @@
+//---------------------------------------------------------------------------
+#pragma hdrstop
+#include "Stack.h"
+void Stack :: Add(Stack *stk, float n)
+{
+	stk->nums[stk->top] = n;
+	stk->top++;
+}
+float Stack :: Delete(Stack *stk)
+{
+	stk->top--;
+	float n;
+	n = stk->nums[stk->top];
+	return n;
+}
+//---------------------------------------------------------------------------
+#pragma package(smart_init)

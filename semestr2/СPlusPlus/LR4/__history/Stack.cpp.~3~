@@ -1,0 +1,26 @@
+//---------------------------------------------------------------------------
+#pragma hdrstop
+#include "Stack.h"
+Stack :: Stack()
+{
+    data = 0;
+}
+template <typename T>
+void Stack :: Add(Stack *&stk, T n)
+{
+	Stack *temp = new Stack;
+	temp->data = n;
+	temp->pNext = stk;
+	stk = temp;
+}
+template <typename T>
+T Stack :: Delete(Stack *&stk)
+{
+	T n = stk->data;
+	Stack *temp = new Stack;
+	stk = stk->pNext;
+	delete temp;
+	return n;
+}
+//---------------------------------------------------------------------------
+#pragma package(smart_init)

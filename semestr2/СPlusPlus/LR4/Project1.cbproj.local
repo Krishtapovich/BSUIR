@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.856,E:\Рабочий стол\C++\LR4\Node_Char.cpp=E:\Рабочий стол\C++\LR4\Node_Op.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.292,E:\Рабочий стол\C++\LR4\Node_Num.h=E:\Рабочий стол\C++\LR4\NodeNum.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,E:\Рабочий стол\C++\LR4\Node.cpp=E:\Рабочий стол\C++\LR4\Node_Num.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.258,E:\Рабочий стол\C++\LR4\Project1.cbproj=E:\Builder\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,E:\Рабочий стол\C++\LR4\Unit2.cpp=E:\Рабочий стол\C++\LR4\StackOp.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.731,=E:\Рабочий стол\C++\LR4\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,E:\Рабочий стол\C++\LR4\Unit2.cpp=E:\Рабочий стол\C++\LR4\Node.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.851,E:\Рабочий стол\C++\LR4\Unit2.h=E:\Рабочий стол\C++\LR4\Node_Char.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,E:\Рабочий стол\C++\LR4\Unit2.h=E:\Рабочий стол\C++\LR4\StackOp.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,E:\Рабочий стол\C++\LR4\Unit2.h=E:\Рабочий стол\C++\LR4\Node.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.070,E:\Рабочий стол\C++\LR4\Stack.h=E:\Рабочий стол\C++\LR4\StackNum.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.417,=E:\Builder\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,E:\Рабочий стол\C++\LR4\Unit1.h=E:\Builder\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.947,E:\Рабочий стол\C++\LR4\Stack.h=E:\Рабочий стол\C++\LR4\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.461,=E:\Рабочий стол\C++\LR4\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.876,=E:\Builder\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.856,E:\Рабочий стол\C++\LR4\Node_Char.h=E:\Рабочий стол\C++\LR4\Node_Op.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.572,E:\Рабочий стол\C++\LR4\Node.h=E:\Рабочий стол\C++\LR4\Node_Num.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.070,E:\Рабочий стол\C++\LR4\Stack.cpp=E:\Рабочий стол\C++\LR4\StackNum.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,E:\Рабочий стол\C++\LR4\Node_Op.cpp=E:\Рабочий стол\C++\LR4\NodeOp.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.893,E:\Рабочий стол\C++\LR4\Project1PCH1.h=E:\Builder\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.947,E:\Рабочий стол\C++\LR4\Stack.cpp=E:\Рабочий стол\C++\LR4\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.851,E:\Рабочий стол\C++\LR4\Unit2.cpp=E:\Рабочий стол\C++\LR4\Node_Char.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,=E:\Рабочий стол\C++\LR4\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,=E:\Рабочий стол\C++\LR4\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,E:\Рабочий стол\C++\LR4\Unit1.dfm=E:\Builder\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,E:\Рабочий стол\C++\LR4\Node_Op.h=E:\Рабочий стол\C++\LR4\NodeOp.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,E:\Рабочий стол\C++\LR4\Unit1.cpp=E:\Builder\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.292,E:\Рабочий стол\C++\LR4\Node_Num.cpp=E:\Рабочий стол\C++\LR4\NodeNum.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="StackNum.cpp"/>
+    <File Path="StackNum.cpp"/>
+    <File Path="StackNum.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="NodeNum.cpp"/>
+    <File Path="NodeNum.cpp"/>
+    <File Path="NodeNum.h"/>
+    <File Path="NodeOp.cpp"/>
+    <File Path="NodeOp.cpp"/>
+    <File Path="NodeOp.h"/>
+    <File Path="StackOp.cpp"/>
+    <File Path="StackOp.cpp"/>
+    <File Path="StackOp.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

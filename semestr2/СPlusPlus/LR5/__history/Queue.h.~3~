@@ -1,0 +1,14 @@
+//---------------------------------------------------------------------------
+#include "Element.h"
+#ifndef QueueH
+#define QueueH
+class Queue
+{
+public:
+	Element *pHead, *pMax, *pMin;
+	Queue();
+	void Add(int);
+    int Delete();
+};
+//---------------------------------------------------------------------------
+#endif

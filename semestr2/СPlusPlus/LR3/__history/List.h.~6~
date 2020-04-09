@@ -1,0 +1,40 @@
+// ---------------------------------------------------------------------------
+#ifndef ListH
+#define ListH
+#include <string>
+class List {
+private:
+	class Node {
+	public:
+		Node *pNext;
+		std::string country;
+		std::string team;
+		std::string surname;
+		int num;
+		int age;
+		int height;
+		int weight;
+
+		Node(std::string c, std::string t, std::string s, int n, int a, int h, int w, Node *pN = nullptr)
+		{
+			country = c;
+			team = t;
+			surname = s;
+			num = n;
+			age = a;
+			height = h;
+			weight = w;
+			pNext = pN;
+		}
+	};
+    int size;
+	Node *head;
+public:
+	List();
+	~List();
+	void Add(std::string c, std::string t, std::string s, int n, int a, int h, int w);
+	int GetSize() {return size;};
+	Node* operator[](int index);
+};
+// ---------------------------------------------------------------------------
+#endif

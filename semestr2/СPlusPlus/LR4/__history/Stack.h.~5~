@@ -1,0 +1,16 @@
+//---------------------------------------------------------------------------
+#ifndef StackH
+#define StackH
+
+class Stack
+{
+public:
+	float num;
+	Stack *pHead, *pNext;
+	int size;
+	Stack();
+	void Add(float n);
+	float Delete();
+};
+//---------------------------------------------------------------------------
+#endif

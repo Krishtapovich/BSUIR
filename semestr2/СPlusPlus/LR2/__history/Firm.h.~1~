@@ -1,0 +1,17 @@
+//---------------------------------------------------------------------------
+#include <string>
+#ifndef FirmH
+#define FirmH
+class Firm
+{
+public:
+	string name;
+	string surname;
+	string project_name;
+	string task;
+	string execute_date;
+	string start_date;
+	string end_date;
+};
+//---------------------------------------------------------------------------
+#endif

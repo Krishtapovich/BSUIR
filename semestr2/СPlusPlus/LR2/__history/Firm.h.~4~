@@ -1,0 +1,15 @@
+//---------------------------------------------------------------------------
+#ifndef FirmH
+#define FirmH
+class Firm
+{
+public:
+	std::string name = "";
+	std::string project = "";
+	int task = 0;
+	int execute_date = 0;
+	int start_date = 0;
+	int end_date = 0;
+};
+//---------------------------------------------------------------------------
+#endif

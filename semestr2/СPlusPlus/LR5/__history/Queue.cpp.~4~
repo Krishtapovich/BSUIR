@@ -1,0 +1,51 @@
+//---------------------------------------------------------------------------
+#pragma hdrstop
+#include "Queue.h"
+Queue :: Queue()
+{
+	size = 0;
+	pHead = nullptr;
+}
+void Queue :: Add(int num)
+{
+	if(pHead != nullptr)
+	{
+		Element *temp = this->pHead;
+		while(temp->pNext != nullptr)
+		{
+			temp = temp->pNext;
+        }
+		temp->pNext = new Element(num);
+		//if(temp->pNext->number > pMax->number) pMax->number = temp->pNext->number;
+		//if(temp->pNext->number < pMin->number) pMin->number = temp->pNext->number;
+	}
+	else
+	{
+		pHead = new Element(num);
+		//pMin->number = pHead->number = num;
+	    //pMax->number = pHead->number = num;
+	}
+	size++;
+}
+int Queue :: Delete()
+{
+	size--;
+	int num = pHead->number;
+	Element *temp = pHead;
+	pHead = pHead->pNext;
+	delete temp;
+    return num;
+}
+int Queue :: GetNum(int index)
+{
+	int counter = 0;
+	Element *temp = this->pHead;
+	while(temp != nullptr)
+	{
+		if(counter == index) return temp->number;
+		temp = temp->pNext;
+        counter++;
+    }
+}
+//---------------------------------------------------------------------------
+#pragma package(smart_init)

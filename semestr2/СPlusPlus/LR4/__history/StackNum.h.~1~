@@ -1,0 +1,15 @@
+//---------------------------------------------------------------------------
+#ifndef StackH
+#define StackH
+#include "Node.h"
+class Stack
+{
+public:
+	Node *pHead, *pTail;
+	int size;
+	Stack();
+	void Add(float n);
+	float Delete();
+};
+//---------------------------------------------------------------------------
+#endif

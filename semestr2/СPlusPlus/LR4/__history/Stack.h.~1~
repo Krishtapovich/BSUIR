@@ -1,0 +1,12 @@
+//---------------------------------------------------------------------------
+#ifndef StackH
+#define StackH
+struct Stack
+{
+	float nums[6];
+	int top;
+	void Add(Stack *stk, float n);
+	float Delete(Stack *stk);
+};
+//---------------------------------------------------------------------------
+#endif

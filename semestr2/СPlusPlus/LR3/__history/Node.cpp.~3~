@@ -1,0 +1,18 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "Node.h"
+Node(std::string c, std::string t, std::string s, int n, int a, int h, int w, Node *pN = nullptr);
+{
+	country = c;
+	team = t;
+	surname = s;
+	num = n;
+	age = a;
+	height = h;
+	weight = w;
+	pNext = pN;
+}
+//---------------------------------------------------------------------------
+#pragma package(smart_init)

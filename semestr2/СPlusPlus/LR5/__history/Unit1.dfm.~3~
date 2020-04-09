@@ -1,0 +1,69 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  BorderStyle = bsToolWindow
+  Caption = 'Queue'
+  ClientHeight = 267
+  ClientWidth = 467
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object ListBox1: TListBox
+    Left = 8
+    Top = 8
+    Width = 121
+    Height = 161
+    ItemHeight = 13
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 80
+    Top = 213
+    Width = 129
+    Height = 33
+    Caption = #1047#1072#1087#1086#1083#1085#1080#1090#1100' '#1089#1087#1080#1089#1082#1080
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 1
+  end
+  object ListBox2: TListBox
+    Left = 168
+    Top = 8
+    Width = 121
+    Height = 161
+    ItemHeight = 13
+    TabOrder = 2
+  end
+  object ListBox3: TListBox
+    Left = 328
+    Top = 8
+    Width = 121
+    Height = 161
+    ItemHeight = 13
+    TabOrder = 3
+  end
+  object Button2: TButton
+    Left = 248
+    Top = 213
+    Width = 129
+    Height = 33
+    Caption = #1057#1086#1079#1072#1076#1090#1100' '#1077#1097#1077' '#1089#1087#1080#1089#1086#1082
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 4
+  end
+end

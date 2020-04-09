@@ -1,0 +1,17 @@
+//---------------------------------------------------------------------------
+#ifndef StackNumH
+#define StackNumH
+#include "Node.h"
+class Stack
+{
+public:
+    std::string str;
+	Node_Num *pNum;
+	Node_Op *pOp;
+	int size;
+	Stack();
+	void Add(float n);
+	float Delete();
+};
+//---------------------------------------------------------------------------
+#endif

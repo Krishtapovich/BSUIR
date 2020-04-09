@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.535,E:\Рабочий стол\C++\LR1\Rect.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.761,E:\Рабочий стол\C++\LR1\Rect.h=E:\Рабочий стол\C++\LR1\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.779,E:\Рабочий стол\C++\LR1\Rect.h=E:\Builder\Rect.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.703,E:\Рабочий стол\C++\LR1\Rect.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.761,E:\Рабочий стол\C++\LR1\Rect.cpp=E:\Рабочий стол\C++\LR1\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.015,E:\Рабочий стол\C++\LR1\Rect.cpp=E:\Builder\Rect.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.700,=E:\Builder\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.204,E:\Рабочий стол\C++\LR1\Project1.cbproj=E:\Builder\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.242,E:\Рабочий стол\C++\LR1\Circ.h=E:\Рабочий стол\C++\LR1\irc.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,E:\Рабочий стол\C++\LR1\Rectan.cpp=E:\Рабочий стол\C++\LR1\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.630,=E:\Рабочий стол\C++\LR1\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.747,E:\Рабочий стол\C++\LR1\Lr1.cpp=E:\Builder\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.747,E:\Рабочий стол\C++\LR1\Lr1.h=E:\Builder\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.751,=E:\Builder\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.747,E:\Рабочий стол\C++\LR1\Lr1.dfm=E:\Builder\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.275,E:\Рабочий стол\C++\LR1\Project1PCH1.h=E:\Builder\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.242,E:\Рабочий стол\C++\LR1\Circ.cpp=E:\Рабочий стол\C++\LR1\irc.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.369,=E:\Рабочий стол\C++\LR1\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,=E:\Рабочий стол\C++\LR1\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.570,=E:\Рабочий стол\C++\LR1\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.942,E:\Builder\Rect.h=E:\Builder\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.062,=E:\Builder\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,E:\Рабочий стол\C++\LR1\irc.h=E:\Рабочий стол\C++\LR1\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,E:\Рабочий стол\C++\LR1\Rectan.h=E:\Рабочий стол\C++\LR1\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.175,=E:\Builder\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.155,E:\Builder\Rect.cpp=E:\Builder\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,E:\Рабочий стол\C++\LR1\irc.cpp=E:\Рабочий стол\C++\LR1\Unit2.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Lr1.cpp"/>
+    <File Path="Lr1.cpp"/>
+    <File Path="Lr1.dfm"/>
+    <File Path="Lr1.h"/>
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="Rectan.cpp"/>
+    <File Path="Rectan.cpp"/>
+    <File Path="Rectan.h"/>
+    <File Path="Circ.cpp"/>
+    <File Path="Circ.cpp"/>
+    <File Path="Circ.h"/>
+  </ProjectSortOrder>
+</BorlandProject>

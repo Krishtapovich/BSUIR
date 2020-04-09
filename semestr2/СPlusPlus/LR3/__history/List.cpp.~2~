@@ -1,0 +1,28 @@
+//---------------------------------------------------------------------------
+#pragma hdrstop
+#include "List.h"
+List::List()
+{
+	size = 0;
+	head = nullptr;
+	tail = nullptr;
+}
+void List::Add(Data data)
+{
+	if(head == nullptr)
+	{
+		head = new Node(data);
+	}
+	else
+	{
+		Node *temp = head;
+		while(temp->pNext != nullptr)
+		{
+			temp = temp->pNext;
+		}
+		temp->pNext = new Node(data);
+	}
+	size++;
+}
+//---------------------------------------------------------------------------
+#pragma package(smart_init)

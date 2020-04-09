@@ -1,0 +1,12 @@
+//---------------------------------------------------------------------------
+#ifndef StackH
+#define StackH
+struct Stack
+{
+	float num;
+	Stack *pNext;
+	void Add(Stack *&stk, float n);
+	float Delete(Stack *&stk);
+};
+//---------------------------------------------------------------------------
+#endif

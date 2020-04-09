@@ -1,0 +1,54 @@
+//---------------------------------------------------------------------------
+
+#include <vcl.h>
+#include <ctime>
+#include "Queue.h"
+#pragma hdrstop
+
+#include "Unit1.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+#pragma resource "*.dfm"
+TForm1 *Form1;
+Queue *q1 = new Queue();
+Queue *q2 = new Queue();
+int Max(Queue *q)
+{
+	int max = q->GetNum(0);
+	for (int i = 0; i < q->size; i++)
+	{
+		if(q->GetNum(i) > max) max = q->GetNum(i);
+	}
+	return max;
+}
+int Min(Queue *q)
+{
+	int min = q->GetNum(0);
+	for(int i = 0; i < q->size; i++)
+	{
+	   if(q->GetNum(i) < min) min = q->GetNum(i);
+	}
+	return min;
+}
+//---------------------------------------------------------------------------
+__fastcall TForm1::TForm1(TComponent* Owner) : TForm(Owner){}
+//---------------------------------------------------------------------------
+void __fastcall TForm1::Button1Click(TObject *Sender)
+{
+	srand(time(0));
+	int amount = q1->size;
+	for (int i = amount; i < amount + 10; i++)
+	{
+		q1->Add(rand() % 10);
+		ListBox1->Items->Add(IntToStr(i + 1) + ".  " + q1->GetNum(i));
+		q2->Add(rand() % 10);
+		ListBox2->Items->Add(IntToStr(i + 1) + ".  " + q2->GetNum(i));
+	}
+	Edit1->Text = Max(q1);
+	Edit2->Text = Min(q1);
+	Edit3->Text = Max(q2);
+	Edit4->Text = Min(q2);
+	Button2->Enabled = True;
+}
+//---------------------------------------------------------------------------
+

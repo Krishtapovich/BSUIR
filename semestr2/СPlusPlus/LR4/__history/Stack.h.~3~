@@ -1,0 +1,15 @@
+//---------------------------------------------------------------------------
+#ifndef StackH
+#define StackH
+template <typename T>
+class Stack
+{
+public:
+	T data;
+	T *pNext;
+	Stack();
+	void Add(Stack *&stk, T n);
+	T Delete(Stack *&stk);
+};
+//---------------------------------------------------------------------------
+#endif

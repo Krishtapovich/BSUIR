@@ -1,0 +1,43 @@
+//---------------------------------------------------------------------------
+#pragma hdrstop
+#include <vcl.h>
+#include "List.h"
+List::List()
+{
+	size = 0;
+	head = nullptr;
+	tail = nullptr;
+}
+void List::Add(std::string c, std::string t, std::string s, int n, int a, int h, int w)
+{
+	if(head == nullptr)
+	{
+		head = new Node(c, t, s, n, a, h, w);
+	}
+	else
+	{
+		Node *temp = this->head;
+		while(temp->pNext != nullptr)
+		{
+			temp = temp->pNext;
+		}
+		temp->pNext = new Node(c, t, s, n, a, h, w);
+	}
+	size++;
+}
+Data& List :: operator[](int index)
+{
+	int counter = 0;
+	Node *temp = head;
+	while(temp != nullptr)
+	{
+		if(counter == index)
+		{
+            std::string  =
+		}
+        temp = temp->pNext;
+		counter++;
+	}
+}
+//---------------------------------------------------------------------------
+#pragma package(smart_init)

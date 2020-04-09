@@ -1,0 +1,15 @@
+//---------------------------------------------------------------------------
+#ifndef StackNumH
+#define StackNumH
+#include "Node.h"
+class StackNum
+{
+public:
+	NodeNum *pNum;
+	int size;
+	StackNum();
+	void Add(float n);
+	float Delete();
+};
+//---------------------------------------------------------------------------
+#endif

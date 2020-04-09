@@ -1,0 +1,33 @@
+//---------------------------------------------------------------------------
+#pragma hdrstop
+#include "StackNum.h"
+Stack :: Stack()
+{
+	size = 0;
+	pHead = 0;
+	pTail = 0;
+}
+
+void Stack :: Add(float n)
+{
+	size++;
+	Node *temp = new Node(n);
+	if(pTail == 0) pTail = temp;
+	else
+	{
+		temp->pNext = pTail;
+		pTail = temp;
+	}
+}
+
+float Stack:: Delete()
+{
+	size--;
+	Node *temp = pTail;
+	float n = temp->num;
+	pTail = pTail->pNext;
+	delete temp;
+	return n;
+}
+//---------------------------------------------------------------------------
+#pragma package(smart_init)

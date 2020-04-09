@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.790,=E:\Builder\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.705,E:\Рабочий стол\C++\LR5\Unit1.h=E:\Builder\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.884,E:\Рабочий стол\C++\LR5\Project1PCH1.h=E:\Builder\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.159,E:\Рабочий стол\C++\LR5\Unit2.h=E:\Рабочий стол\C++\LR5\Element.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.375,E:\Рабочий стол\C++\LR5\Unit2.h=E:\Рабочий стол\C++\LR5\Queue.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.321,=E:\Builder\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.705,E:\Рабочий стол\C++\LR5\Unit1.cpp=E:\Builder\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.375,E:\Рабочий стол\C++\LR5\Unit2.cpp=E:\Рабочий стол\C++\LR5\Queue.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.705,E:\Рабочий стол\C++\LR5\Unit1.dfm=E:\Builder\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.836,E:\Рабочий стол\C++\LR5\Project1.cbproj=E:\Builder\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.157,E:\Рабочий стол\C++\LR5\Unit2.cpp=E:\Рабочий стол\C++\LR5\Element.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,=E:\Рабочий стол\C++\LR5\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,=E:\Рабочий стол\C++\LR5\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

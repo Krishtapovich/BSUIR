@@ -1,0 +1,29 @@
+// ---------------------------------------------------------------------------
+#include "Data.h"
+#ifndef ListH
+#define ListH
+class List
+{
+private:
+	class Node
+	{
+	public:
+		Node *pNext, *pPrev;
+		Data data;
+
+		Node(Data d, Node *pN = nullptr, Node *pP = nullptr) {
+			data = d;
+			pNext = pN;
+			pP = pPrev;
+		}
+	};
+	int size;
+	Node *head, *tail;
+public:
+	List();
+	~List();
+	void Add(Data d);
+	int GetSize() {return size;};
+};
+// ---------------------------------------------------------------------------
+#endif
