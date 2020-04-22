@@ -1,0 +1,18 @@
+//---------------------------------------------------------------------------
+#include <vcl.h>
+#ifndef TreeH
+#define TreeH
+class Tree
+{
+public:
+	std::string surname;
+	int number;
+	Tree *pLeft, *pRight;
+
+	void Add(Tree*, std::string, int);
+	Tree* DeleteNode(Tree*, int);
+	void ShowTree(TTreeView*);
+	void PrintTree(Tree*, TTreeView*, int index = 0);
+};
+//---------------------------------------------------------------------------
+#endif

@@ -1,0 +1,87 @@
+//---------------------------------------------------------------------------
+#pragma hdrstop
+#include "Tree.h"
+
+Tree :: Tree()
+{
+	pHead = nullptr;
+}
+
+void Tree :: AddNode(AnsiString str, int num)
+{
+	if(!pHead)
+	{
+		pHead = new Node;
+		pHead->surname = str;
+		pHead->number = num;
+		pHead->pLeft = pHead->pRight = nullptr;
+	}
+	else
+	{
+		Node *node = SearchFree(pHead, num);
+		node->surname = str;
+		node->number = num;
+    }
+}
+
+Node* Tree :: SearchFree(Node *temp, int num)
+{
+	if(num < temp->number)
+	{
+		if(!temp->pLeft)
+		{
+			temp->pLeft = new Node;
+			temp->pLeft->pLeft  = temp->pLeft->pRight = nullptr;
+			return temp->pLeft;
+		}
+		else return SearchFree(temp->pLeft, num);
+	}
+	else
+	{
+		if(!temp->pRight)
+		{
+			temp->pRight = new Node;
+			temp->pRight->pLeft = temp->pRight->pLeft = nullptr;
+			return temp->pRight;
+		}
+		else return SearchFree(temp->pRight, num);
+	}
+}
+
+void Tree :: PrintTree(Node* temp, TTreeView *TreeView, int index)
+{
+	if(temp->pLeft)
+	{
+		TreeView->Items->AddChild(TreeView->Items->Item[index], temp->pLeft->surname);
+		PrintTree(temp->pLeft, TreeView, index + 1);
+	}
+	if(temp->pRight)
+	{
+		TreeView->Items->AddChild(TreeView->Items->Item[index], temp->pRight->surname);
+		PrintTree(temp->pRight, TreeView, index + 1);
+    }
+}
+
+void Tree :: ShowTree(TTreeView *TreeView)
+{
+	TreeView->Items->Clear();
+	if(pHead)
+	{
+		TreeView->Items->Add(NULL, pHead->surname);
+		PrintTree(pHead, TreeView);
+    }
+}
+
+AnsiString Tree :: GetPlayer(int num)
+{
+	Node *temp = pHead;
+	while(temp && temp->number != num)
+	{
+		if(num < temp->number) temp = temp->pLeft;
+		else temp = temp->pRight;
+	}
+	if(temp)return temp->surname;
+	else return "";
+}
+//--------------------------------------------------------------------------
+#pragma package(smart_init)
