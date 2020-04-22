@@ -1,0 +1,27 @@
+//---------------------------------------------------------------------------
+#include <vcl.h>
+#ifndef HashTableH
+#define HashTableH
+class HashNode
+{
+public:
+	int key;
+	AnsiString info;
+	HashNode *pNext;
+	HashNode(int, AnsiString);
+};
+
+class HashTable
+{
+private:
+   int Hash(int);
+   static const int size = 30;
+public:
+	HashNode *elements;
+	void Create();
+	void Add(int, AnsiString);
+	void Delete(int);
+	void Show(TMemo*);
+};
+//---------------------------------------------------------------------------
+#endif
