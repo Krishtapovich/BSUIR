@@ -1,0 +1,13 @@
+﻿Выполняется установка сборки 'E:\LR2_Service\bin\Debug\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Debug\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Debug\LR2.exe
+Устанавливается служба MyService...
+Создается исходный EventLog MyService в журнале Application...
+Выполняется откат для сборки 'E:\LR2_Service\bin\Debug\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Debug\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Debug\LR2.exe
+Восстанавливается исходное состояние журнала событий для источника MyService.
