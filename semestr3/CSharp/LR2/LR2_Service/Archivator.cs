@@ -1,8 +1,6 @@
 ﻿using System;
 using System.IO;
 using System.IO.Compression;
-using System.Security.Cryptography;
-using System.Text;
 using System.Threading;
 
 namespace LR2
@@ -14,12 +12,6 @@ namespace LR2
         private static string decryptedFileName;
 
         public static readonly string errorFile = @"E:\LR2_Service\Error.txt";
-
-        private static readonly DESCryptoServiceProvider crypto = new DESCryptoServiceProvider
-        {
-            Key = Encoding.ASCII.GetBytes("Mishanya"),
-            IV = Encoding.ASCII.GetBytes("Mishanya")
-        };
 
         public static void Archive(string fileName, string targetDir)
         {
