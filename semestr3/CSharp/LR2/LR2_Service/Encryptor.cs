@@ -27,5 +27,19 @@ namespace LR2
                 dcStream.CopyTo(targetDecryptedStream);
             }
         }
+        
+        public static string TargetEncryptedFilePath(string fileName, string targetDir)
+        {
+            fileName = fileName.Replace(Path.GetDirectoryName(fileName), targetDir);
+            return fileName.Replace(Path.GetFileName(fileName), Path.GetFileNameWithoutExtension(fileName) + "_encrypted" + Path.GetExtension(fileName));
+        }
+
+        public static string TargetDecryptedFilePath(string fileName, string targetDir)
+        {
+            fileName = Path.Combine(targetDir, fileName);
+            string name = Path.GetFileNameWithoutExtension(fileName);
+            name = name.Replace("_encrypted", "_decrypted");
+            return fileName.Replace(Path.GetFileNameWithoutExtension(fileName), name);
+        }
     }
 }
