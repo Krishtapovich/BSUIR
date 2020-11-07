@@ -1,8 +1,6 @@
 ﻿using System;
 using System.IO;
 using System.IO.Compression;
-using System.Security.Cryptography;
-using System.Text;
 using System.Threading;
 
 namespace LR2
@@ -15,15 +13,9 @@ namespace LR2
 
         public static readonly string errorFile = @"E:\LR2_Service\Error.txt";
 
-        private static readonly DESCryptoServiceProvider crypto = new DESCryptoServiceProvider
-        {
-            Key = Encoding.ASCII.GetBytes("Mishanya"),
-            IV = Encoding.ASCII.GetBytes("Mishanya")
-        };
-
         public static void Archive(string fileName, string targetDir)
         {
-            encryptedFileName = TargetEncryptedFilePath(fileName, targetDir);
+            encryptedFileName = Encryptor.TargetEncryptedFilePath(fileName, targetDir);
             try
             {
                 using (var memory = new MemoryStream())
@@ -76,7 +68,7 @@ namespace LR2
                 using (var zip = ZipFile.OpenRead(fileName))
                 {
                     var file = zip.Entries[0];
-                    decryptedFileName = TargetDecryptedFilePath(file.Name, targetDir);
+                    decryptedFileName = Encryptor.TargetDecryptedFilePath(file.Name, targetDir);
                     using (var targetStream = new FileStream(decryptedFileName, FileMode.OpenOrCreate, FileAccess.Write))
                     using (Stream targetDecryptedStream = file.Open())
                         Encryptor.Decrypt(targetDecryptedStream, targetStream);
@@ -90,20 +82,6 @@ namespace LR2
                 }
             }
             Thread.Sleep(100);
-        }
-
-        private static string TargetEncryptedFilePath(string fileName, string targetDir)
-        {
-            fileName = fileName.Replace(Path.GetDirectoryName(fileName), targetDir);
-            return fileName.Replace(Path.GetFileName(fileName), Path.GetFileNameWithoutExtension(fileName) + "_encrypted" + Path.GetExtension(fileName));
-        }
-
-        private static string TargetDecryptedFilePath(string fileName, string targetDir)
-        {
-            fileName = Path.Combine(targetDir, fileName);
-            string name = Path.GetFileNameWithoutExtension(fileName);
-            name = name.Replace("_encrypted", "_decrypted");
-            return fileName.Replace(Path.GetFileNameWithoutExtension(fileName), name);
         }
     }
 }
