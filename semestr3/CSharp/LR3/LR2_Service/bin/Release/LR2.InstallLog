@@ -1,0 +1,311 @@
+﻿Выполняется установка сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Устанавливается служба MyService...
+Служба MyService успешно установлена.
+Создается исходный EventLog MyService в журнале Application...
+Выполняется фиксация сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление источника EventLog MyService.
+Выполняется удаление службы MyService из системы...
+Служба MyService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Устанавливается служба MyService...
+Служба MyService успешно установлена.
+Создается исходный EventLog MyService в журнале Application...
+Выполняется фиксация сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление источника EventLog MyService.
+Выполняется удаление службы MyService из системы...
+Служба MyService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Устанавливается служба MyService...
+Служба MyService успешно установлена.
+Создается исходный EventLog MyService в журнале Application...
+Выполняется фиксация сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление источника EventLog MyService.
+Выполняется удаление службы MyService из системы...
+Служба MyService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Устанавливается служба MyService...
+Служба MyService успешно установлена.
+Создается исходный EventLog MyService в журнале Application...
+Выполняется фиксация сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление источника EventLog MyService.
+Выполняется удаление службы MyService из системы...
+Служба MyService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Устанавливается служба MyService...
+Служба MyService успешно установлена.
+Создается исходный EventLog MyService в журнале Application...
+Выполняется фиксация сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление источника EventLog MyService.
+Выполняется удаление службы MyService из системы...
+Служба MyService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Устанавливается служба MyService...
+Создается исходный EventLog MyService в журнале Application...
+Выполняется откат для сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Восстанавливается исходное состояние журнала событий для источника MyService.
+Выполняется установка сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Устанавливается служба MyService...
+Служба MyService успешно установлена.
+Создается исходный EventLog MyService в журнале Application...
+Выполняется фиксация сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление источника EventLog MyService.
+Выполняется удаление службы MyService из системы...
+Служба MyService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Устанавливается служба MyService...
+Служба MyService успешно установлена.
+Создается исходный EventLog MyService в журнале Application...
+Выполняется фиксация сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление источника EventLog MyService.
+Выполняется удаление службы MyService из системы...
+Служба MyService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Устанавливается служба MyService...
+Служба MyService успешно установлена.
+Создается исходный EventLog MyService в журнале Application...
+Выполняется фиксация сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление источника EventLog MyService.
+Выполняется удаление службы MyService из системы...
+Служба MyService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Устанавливается служба MyService...
+Служба MyService успешно установлена.
+Создается исходный EventLog MyService в журнале Application...
+Выполняется фиксация сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление источника EventLog MyService.
+Выполняется удаление службы MyService из системы...
+Служба MyService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Устанавливается служба MyService...
+Служба MyService успешно установлена.
+Создается исходный EventLog MyService в журнале Application...
+Выполняется фиксация сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление источника EventLog MyService.
+Выполняется удаление службы MyService из системы...
+Служба MyService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Устанавливается служба MyService...
+Создается исходный EventLog MyService в журнале Application...
+Выполняется откат для сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Восстанавливается исходное состояние журнала событий для источника MyService.
+Выполняется установка сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Устанавливается служба MyService...
+Служба MyService успешно установлена.
+Создается исходный EventLog MyService в журнале Application...
+Выполняется фиксация сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление источника EventLog MyService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Устанавливается служба MyService...
+Создается исходный EventLog MyService в журнале Application...
+Выполняется откат для сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Восстанавливается исходное состояние журнала событий для источника MyService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Устанавливается служба MyService...
+Создается исходный EventLog MyService в журнале Application...
+Выполняется откат для сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Восстанавливается исходное состояние журнала событий для источника MyService.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Устанавливается служба MyService...
+Служба MyService успешно установлена.
+Создается исходный EventLog MyService в журнале Application...
+Выполняется фиксация сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление сборки 'E:\LR2_Service\bin\Release\LR2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR2_Service\bin\Release\LR2.InstallLog
+   assemblypath = E:\LR2_Service\bin\Release\LR2.exe
+Выполняется удаление источника EventLog MyService.
+Выполняется удаление службы MyService из системы...
+Служба MyService успешно удалена из системы.

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ConfigurationOptions>
+  <Folders>
+    <Folder>
+      <Name>Source</Name>
+      <Path>E:\LR2_Service\source</Path>
+    </Folder>
+    <Folder>
+      <Name>Archive</Name>
+      <Path>E:\LR2_Service\archive</Path>
+    </Folder>
+    <Folder>
+      <Name>Extract</Name>
+      <Path>E:\LR2_Service\extract</Path>
+    </Folder>
+  </Folders>
+  <CryptoOption>
+    <Key>Mishanya</Key>
+    <Vector>Mishanya</Vector>
+  </CryptoOption>
+</ConfigurationOptions>
