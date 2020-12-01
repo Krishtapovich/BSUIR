@@ -19,8 +19,15 @@ namespace LR2
         }
 
         public T Parse<T>() where T : new()
-        {
-            return parser.Parse<T>();
+        {   
+            try
+            {
+                return parser.Parse<T>();
+            }
+            catch(Exception ex)
+            {
+                throw ex;   
+            }
         }
     }
 }
