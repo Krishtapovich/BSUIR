@@ -1,0 +1,62 @@
+E:\Рабочий стол\LR4\DataManagerService\bin\Debug\DataManagerService.exe.config
+E:\Рабочий стол\LR4\DataManagerService\bin\Debug\DataManagerService.exe
+E:\Рабочий стол\LR4\DataManagerService\bin\Debug\DataManagerService.pdb
+E:\Рабочий стол\LR4\DataManagerService\bin\Debug\ConfigurationManager.dll
+E:\Рабочий стол\LR4\DataManagerService\bin\Debug\DataAccessLayer.dll
+E:\Рабочий стол\LR4\DataManagerService\bin\Debug\FileManager.exe
+E:\Рабочий стол\LR4\DataManagerService\bin\Debug\Models.dll
+E:\Рабочий стол\LR4\DataManagerService\bin\Debug\ServiceLayer.dll
+E:\Рабочий стол\LR4\DataManagerService\bin\Debug\ConfigurationManager.pdb
+E:\Рабочий стол\LR4\DataManagerService\bin\Debug\DataAccessLayer.pdb
+E:\Рабочий стол\LR4\DataManagerService\bin\Debug\FileManager.pdb
+E:\Рабочий стол\LR4\DataManagerService\bin\Debug\FileManager.exe.config
+E:\Рабочий стол\LR4\DataManagerService\bin\Debug\Models.pdb
+E:\Рабочий стол\LR4\DataManagerService\bin\Debug\ServiceLayer.pdb
+E:\Рабочий стол\LR4\DataManagerService\obj\Debug\DataManager.csprojAssemblyReference.cache
+E:\Рабочий стол\LR4\DataManagerService\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\LR4\DataManagerService\obj\Debug\DataManager.csproj.CopyComplete
+E:\Рабочий стол\LR4\DataManagerService\obj\Debug\DataManagerService.exe
+E:\Рабочий стол\LR4\DataManagerService\obj\Debug\DataManagerService.pdb
+E:\Рабочий стол\LR4\DataManagerService\bin\Debug\System.Data.SqlClient.dll
+E:\Рабочий стол\LR4\DataManagerService\bin\Debug\System.Data.SqlClient.xml
+E:\LR4\DataManagerService\bin\Debug\DataManagerService.exe.config
+E:\LR4\DataManagerService\bin\Debug\DataManagerService.exe
+E:\LR4\DataManagerService\bin\Debug\DataManagerService.pdb
+E:\LR4\DataManagerService\bin\Debug\ConfigurationManager.dll
+E:\LR4\DataManagerService\bin\Debug\DataAccessLayer.dll
+E:\LR4\DataManagerService\bin\Debug\FileManager.exe
+E:\LR4\DataManagerService\bin\Debug\Models.dll
+E:\LR4\DataManagerService\bin\Debug\ServiceLayer.dll
+E:\LR4\DataManagerService\bin\Debug\System.Data.SqlClient.dll
+E:\LR4\DataManagerService\bin\Debug\ConfigurationManager.pdb
+E:\LR4\DataManagerService\bin\Debug\DataAccessLayer.pdb
+E:\LR4\DataManagerService\bin\Debug\FileManager.pdb
+E:\LR4\DataManagerService\bin\Debug\FileManager.exe.config
+E:\LR4\DataManagerService\bin\Debug\Models.pdb
+E:\LR4\DataManagerService\bin\Debug\ServiceLayer.pdb
+E:\LR4\DataManagerService\bin\Debug\System.Data.SqlClient.xml
+E:\LR4\DataManagerService\obj\Debug\DataManager.csprojAssemblyReference.cache
+E:\LR4\DataManagerService\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+E:\LR4\DataManagerService\obj\Debug\DataManager.csproj.CopyComplete
+E:\LR4\DataManagerService\obj\Debug\DataManagerService.exe
+E:\LR4\DataManagerService\obj\Debug\DataManagerService.pdb
+E:\LR4\DataManagerService\bin\Debug\System.Text.Json.dll
+E:\LR4\DataManagerService\bin\Debug\System.Memory.dll
+E:\LR4\DataManagerService\bin\Debug\System.Text.Encodings.Web.dll
+E:\LR4\DataManagerService\bin\Debug\System.Numerics.Vectors.dll
+E:\LR4\DataManagerService\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\LR4\DataManagerService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LR4\DataManagerService\bin\Debug\System.Buffers.dll
+E:\LR4\DataManagerService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\LR4\DataManagerService\bin\Debug\System.ValueTuple.dll
+E:\LR4\DataManagerService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\LR4\DataManagerService\bin\Debug\System.Buffers.xml
+E:\LR4\DataManagerService\bin\Debug\System.Memory.xml
+E:\LR4\DataManagerService\bin\Debug\System.Numerics.Vectors.xml
+E:\LR4\DataManagerService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\LR4\DataManagerService\bin\Debug\System.Text.Encodings.Web.xml
+E:\LR4\DataManagerService\bin\Debug\System.Text.Json.xml
+E:\LR4\DataManagerService\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\LR4\DataManagerService\bin\Debug\System.ValueTuple.xml
+E:\LR4\DataManagerService\obj\Debug\DataManagerService.ProjectInstaller.resources
+E:\LR4\DataManagerService\obj\Debug\DataManager.csproj.GenerateResource.cache

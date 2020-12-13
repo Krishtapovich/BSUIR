@@ -1,0 +1,449 @@
+﻿Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется откат для сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Восстанавливается исходное состояние журнала событий для источника FileManagerService.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется откат для сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется установка сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Устанавливается служба FileManagerService...
+Служба FileManagerService успешно установлена.
+Создается исходный EventLog FileManagerService в журнале Application...
+Выполняется фиксация сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+Служба FileManagerService успешно удалена из системы.
+Выполняется удаление сборки 'E:\LR4\FileManager\bin\Release\FileManager.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = E:\LR4\FileManager\bin\Release\FileManager.InstallLog
+   assemblypath = E:\LR4\FileManager\bin\Release\FileManager.exe
+Выполняется удаление источника EventLog FileManagerService.
+Выполняется удаление службы FileManagerService из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.

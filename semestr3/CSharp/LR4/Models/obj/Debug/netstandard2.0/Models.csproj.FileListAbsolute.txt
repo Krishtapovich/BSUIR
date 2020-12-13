@@ -1,0 +1,27 @@
+E:\Рабочий стол\C#\LR4\Models\bin\Debug\netstandard2.0\Models.deps.json
+E:\Рабочий стол\C#\LR4\Models\bin\Debug\netstandard2.0\Models.dll
+E:\Рабочий стол\C#\LR4\Models\bin\Debug\netstandard2.0\Models.pdb
+E:\Рабочий стол\C#\LR4\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
+E:\Рабочий стол\C#\LR4\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+E:\Рабочий стол\C#\LR4\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+E:\Рабочий стол\C#\LR4\Models\obj\Debug\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\C#\LR4\Models\obj\Debug\netstandard2.0\Models.dll
+E:\Рабочий стол\C#\LR4\Models\obj\Debug\netstandard2.0\Models.pdb
+E:\Рабочий стол\LR4\Models\bin\Debug\netstandard2.0\Models.deps.json
+E:\Рабочий стол\LR4\Models\bin\Debug\netstandard2.0\Models.dll
+E:\Рабочий стол\LR4\Models\bin\Debug\netstandard2.0\Models.pdb
+E:\Рабочий стол\LR4\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
+E:\Рабочий стол\LR4\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+E:\Рабочий стол\LR4\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+E:\Рабочий стол\LR4\Models\obj\Debug\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\LR4\Models\obj\Debug\netstandard2.0\Models.dll
+E:\Рабочий стол\LR4\Models\obj\Debug\netstandard2.0\Models.pdb
+E:\LR4\Models\bin\Debug\netstandard2.0\Models.deps.json
+E:\LR4\Models\bin\Debug\netstandard2.0\Models.dll
+E:\LR4\Models\bin\Debug\netstandard2.0\Models.pdb
+E:\LR4\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
+E:\LR4\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+E:\LR4\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs
+E:\LR4\Models\obj\Debug\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+E:\LR4\Models\obj\Debug\netstandard2.0\Models.dll
+E:\LR4\Models\obj\Debug\netstandard2.0\Models.pdb

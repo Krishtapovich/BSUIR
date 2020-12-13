@@ -1,0 +1,56 @@
+E:\Рабочий стол\C#\LR4\FileManager\bin\Debug\FileManager.exe.config
+E:\Рабочий стол\C#\LR4\FileManager\bin\Debug\FileManager.exe
+E:\Рабочий стол\C#\LR4\FileManager\bin\Debug\FileManager.pdb
+E:\Рабочий стол\C#\LR4\FileManager\bin\Debug\ConfigurationManager.dll
+E:\Рабочий стол\C#\LR4\FileManager\bin\Debug\ConfigurationManager.pdb
+E:\Рабочий стол\C#\LR4\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+E:\Рабочий стол\C#\LR4\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\C#\LR4\FileManager\obj\Debug\FileManager.csproj.CopyComplete
+E:\Рабочий стол\C#\LR4\FileManager\obj\Debug\FileManager.exe
+E:\Рабочий стол\C#\LR4\FileManager\obj\Debug\FileManager.pdb
+E:\Рабочий стол\C#\LR4\FileManager\bin\Debug\Models.dll
+E:\Рабочий стол\C#\LR4\FileManager\bin\Debug\Models.pdb
+E:\Рабочий стол\LR4\FileManager\bin\Debug\FileManager.exe.config
+E:\Рабочий стол\LR4\FileManager\bin\Debug\FileManager.exe
+E:\Рабочий стол\LR4\FileManager\bin\Debug\FileManager.pdb
+E:\Рабочий стол\LR4\FileManager\bin\Debug\ConfigurationManager.dll
+E:\Рабочий стол\LR4\FileManager\bin\Debug\Models.dll
+E:\Рабочий стол\LR4\FileManager\bin\Debug\ConfigurationManager.pdb
+E:\Рабочий стол\LR4\FileManager\bin\Debug\Models.pdb
+E:\Рабочий стол\LR4\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+E:\Рабочий стол\LR4\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\LR4\FileManager\obj\Debug\FileManager.csproj.CopyComplete
+E:\Рабочий стол\LR4\FileManager\obj\Debug\FileManager.exe
+E:\Рабочий стол\LR4\FileManager\obj\Debug\FileManager.pdb
+E:\LR4\FileManager\bin\Debug\FileManager.exe.config
+E:\LR4\FileManager\bin\Debug\FileManager.exe
+E:\LR4\FileManager\bin\Debug\FileManager.pdb
+E:\LR4\FileManager\bin\Debug\ConfigurationManager.dll
+E:\LR4\FileManager\bin\Debug\Models.dll
+E:\LR4\FileManager\bin\Debug\ConfigurationManager.pdb
+E:\LR4\FileManager\bin\Debug\Models.pdb
+E:\LR4\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+E:\LR4\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+E:\LR4\FileManager\obj\Debug\FileManager.csproj.CopyComplete
+E:\LR4\FileManager\obj\Debug\FileManager.exe
+E:\LR4\FileManager\obj\Debug\FileManager.pdb
+E:\LR4\FileManager\obj\Debug\FileManager.ProjectInstaller.resources
+E:\LR4\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+E:\LR4\FileManager\bin\Debug\System.Text.Json.dll
+E:\LR4\FileManager\bin\Debug\System.Memory.dll
+E:\LR4\FileManager\bin\Debug\System.Text.Encodings.Web.dll
+E:\LR4\FileManager\bin\Debug\System.Numerics.Vectors.dll
+E:\LR4\FileManager\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\LR4\FileManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LR4\FileManager\bin\Debug\System.Buffers.dll
+E:\LR4\FileManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\LR4\FileManager\bin\Debug\System.ValueTuple.dll
+E:\LR4\FileManager\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\LR4\FileManager\bin\Debug\System.Buffers.xml
+E:\LR4\FileManager\bin\Debug\System.Memory.xml
+E:\LR4\FileManager\bin\Debug\System.Numerics.Vectors.xml
+E:\LR4\FileManager\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\LR4\FileManager\bin\Debug\System.Text.Encodings.Web.xml
+E:\LR4\FileManager\bin\Debug\System.Text.Json.xml
+E:\LR4\FileManager\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\LR4\FileManager\bin\Debug\System.ValueTuple.xml

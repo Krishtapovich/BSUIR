@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<FileManagerOptions>
+    <Folders>
+        <Folder>
+            <Name>Source</Name>
+            <Path>E:\LR4\FTP\Source</Path>
+        </Folder>
+        <Folder>
+            <Name>Archive</Name>
+            <Path>E:\LR4\FTP\Archive</Path>
+        </Folder>
+        <Folder>
+            <Name>Extract</Name>
+            <Path>E:\LR4\FTP\Extract</Path>
+        </Folder>
+    </Folders>
+</FileManagerOptions>
