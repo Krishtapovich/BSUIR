@@ -1,0 +1,42 @@
+E:\Рабочий стол\C#\LR4\ServiceLayer\bin\Debug\netstandard2.0\ServiceLayer.deps.json
+E:\Рабочий стол\C#\LR4\ServiceLayer\bin\Debug\netstandard2.0\ServiceLayer.dll
+E:\Рабочий стол\C#\LR4\ServiceLayer\bin\Debug\netstandard2.0\ServiceLayer.pdb
+E:\Рабочий стол\C#\LR4\ServiceLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+E:\Рабочий стол\C#\LR4\ServiceLayer\bin\Debug\netstandard2.0\Models.dll
+E:\Рабочий стол\C#\LR4\ServiceLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+E:\Рабочий стол\C#\LR4\ServiceLayer\bin\Debug\netstandard2.0\Models.pdb
+E:\Рабочий стол\C#\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.csprojAssemblyReference.cache
+E:\Рабочий стол\C#\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.AssemblyInfoInputs.cache
+E:\Рабочий стол\C#\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.AssemblyInfo.cs
+E:\Рабочий стол\C#\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\C#\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.csproj.CopyComplete
+E:\Рабочий стол\C#\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.dll
+E:\Рабочий стол\C#\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.pdb
+E:\Рабочий стол\LR4\ServiceLayer\bin\Debug\netstandard2.0\ServiceLayer.deps.json
+E:\Рабочий стол\LR4\ServiceLayer\bin\Debug\netstandard2.0\ServiceLayer.dll
+E:\Рабочий стол\LR4\ServiceLayer\bin\Debug\netstandard2.0\ServiceLayer.pdb
+E:\Рабочий стол\LR4\ServiceLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+E:\Рабочий стол\LR4\ServiceLayer\bin\Debug\netstandard2.0\Models.dll
+E:\Рабочий стол\LR4\ServiceLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+E:\Рабочий стол\LR4\ServiceLayer\bin\Debug\netstandard2.0\Models.pdb
+E:\Рабочий стол\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.csprojAssemblyReference.cache
+E:\Рабочий стол\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.AssemblyInfoInputs.cache
+E:\Рабочий стол\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.AssemblyInfo.cs
+E:\Рабочий стол\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.csproj.CopyComplete
+E:\Рабочий стол\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.dll
+E:\Рабочий стол\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.pdb
+E:\LR4\ServiceLayer\bin\Debug\netstandard2.0\ServiceLayer.deps.json
+E:\LR4\ServiceLayer\bin\Debug\netstandard2.0\ServiceLayer.dll
+E:\LR4\ServiceLayer\bin\Debug\netstandard2.0\ServiceLayer.pdb
+E:\LR4\ServiceLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
+E:\LR4\ServiceLayer\bin\Debug\netstandard2.0\Models.dll
+E:\LR4\ServiceLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
+E:\LR4\ServiceLayer\bin\Debug\netstandard2.0\Models.pdb
+E:\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.csprojAssemblyReference.cache
+E:\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.AssemblyInfoInputs.cache
+E:\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.AssemblyInfo.cs
+E:\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.csproj.CoreCompileInputs.cache
+E:\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.csproj.CopyComplete
+E:\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.dll
+E:\LR4\ServiceLayer\obj\Debug\netstandard2.0\ServiceLayer.pdb

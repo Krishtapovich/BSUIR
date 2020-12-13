@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kh74N47baatMvkTDNaPimb+sWX5woa2Gi3Jyui2FTjUPwOMJWZWxA4TIQeAIuUMU5b8YSfBVb2lHQ28/xFjlCQ==",
+  "success": true,
+  "projectFilePath": "E:\\LR4\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1111\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\1111\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\1111\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
