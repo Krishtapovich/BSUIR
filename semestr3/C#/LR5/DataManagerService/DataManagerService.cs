@@ -36,7 +36,7 @@ namespace DataManagerService
                 var xsdString = generator.GenerateXsd();
 
                 FileManagerService filemanager = new FileManagerService();
-                await filemanager.Launch();
+                await filemanager.LaunchAsync();
 
                 FileSender sender = new FileSender(dataManagerOptions.FtpSourceFolder);
                 await sender.SendAsync(xmlString, xsdString);

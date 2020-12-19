@@ -19,7 +19,7 @@ namespace FileManager
 
         protected override void OnStart(string[] args) { }
 
-        private async Task Start()
+        private async Task StartAsync()
         {
             OptionsManager optionsManager = new OptionsManager(@"E:\LR5\FileManager\bin\Release\AppSettings.json");
             options = await optionsManager.GetOptionsAsync<FileManagerOptions>();
@@ -34,9 +34,9 @@ namespace FileManager
             Thread.Sleep(1000);
         }
 
-        public async Task Launch()
+        public async Task LaunchAsync()
         {
-            await Start();
+            await StartAsync();
         }
     }
 }
