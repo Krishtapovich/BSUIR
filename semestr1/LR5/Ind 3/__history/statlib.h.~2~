@@ -1,4 +1,0 @@
-#ifndef statlib_H
-#define statlib_H
-void integral(int n, float b, float a);
-#endif
