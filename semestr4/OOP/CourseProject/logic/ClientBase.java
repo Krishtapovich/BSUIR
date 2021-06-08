@@ -24,8 +24,8 @@ public class ClientBase extends Container<Client> {
     @Override
     public ArrayList<Client> getItemsByObjectFields(Client obj) {
         ArrayList<Client> clientsByName = getItemsByCondition(x -> x.getName().equals(obj.getName()));
-        ArrayList<Client> clientsBySurname = getItemsByCondition(x -> x.getName().equals(obj.getSurname()));
-        ArrayList<Client> clientsByAddress = getItemsByCondition(x -> x.getName().equals(obj.getAddress()));
+        ArrayList<Client> clientsBySurname = getItemsByCondition(x -> x.getSurname().equals(obj.getSurname()));
+        ArrayList<Client> clientsByAddress = getItemsByCondition(x -> x.getAddress().equals(obj.getAddress()));
         ArrayList<Client> clientsByPhone = getItemsByCondition(x -> x.getPhone().equals(obj.getPhone()));
         clientsByAddress.addAll(clientsByPhone);
         clientsBySurname.addAll(clientsByAddress);
